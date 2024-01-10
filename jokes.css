@@ -1,0 +1,46 @@
+
+/* Name- Ramandeep SINGH
+Student number: 041097006
+class section: 322
+ */
+
+body {
+    font-family: "Times New Roman", Times, serif; 
+	 background: linear-gradient(to bottom, #FF5733, #33FF57);
+	 background-repeat: no repeat;
+	 background-attachment: fixed;
+}
+header {
+    font-family:  Times New Roman, serif ;
+}
+h2 {
+    background-color:#808080; 
+    color: white; 
+    font-family: Arial, sans-serif; 
+    text-align: center; 
+    padding: 10px; 
+}
+button {
+    font-family: Arial, sans-serif; 
+	display: block; 
+    margin: 20px auto; 
+	background-color: #c6f49e;
+}
+
+#jokes {
+    border: 15px solid #333; 
+    border-radius: 15px; 
+    background-color: #f0f0f0; 
+    padding: 20px; 
+}
+
+#jokeText {
+    font-family: "Times New Roman", Times, serif; 
+    text-align: center; 
+}
+
+#authorName {
+    font-family: "Times New Roman", Times, serif; 
+    text-align: center; 
+	font-style: italic;
+}
