@@ -1,7 +1,3 @@
-/* Name- Ramandeep SINGH
-Student number: 041097006
-class section: 322
- */
 
 
 
